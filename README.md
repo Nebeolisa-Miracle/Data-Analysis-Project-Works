@@ -13,7 +13,11 @@
 
 ###
 
-<p align="left">- 👋Hi, I'm Nebeolisa Miracle<br>- 🔭 I am a Data Analyst who enjoys transforming raw data into meaningful insights and clarity<br>-🔭 I am driven by curiosity to uncover patterns, tell stories and turn data into smarter decision<br>- 📚 I am open to collaboration, creative ideas, and data-driven problem-solving.<br>- ⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/chimdeenidimma-m-nebeolisa-521a94304)</p>
+ 👋 Hi, I'm Nebeolisa Miracle  
+💼 I am a Data Analyst who enjoys transforming raw data into meaningful insights and clarity  
+🎯 I am driven by curiosity to uncover patterns, tell stories, and turn data into smarter decisions  
+🤝 I am open to collaboration, creative ideas, and data-driven problem-solving  
+⚡ Let's connect on [LinkedIn](https://www.linkedin.com/in/chimdeenidimma-m-nebeolisa-521a94304)
 
 ###
 
